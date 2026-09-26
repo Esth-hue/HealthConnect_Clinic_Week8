@@ -8,7 +8,7 @@ The Week 8 project brought together the completed Data Analytics work into a fin
 
 ## Business Question
 
-> **How can HealthConnect Clinic use data and AI to reduce missed appointments and improve the patient support experience?**
+**How can HealthConnect Clinic use data and AI to reduce missed appointments and improve the patient support experience?**
 
 ## Key Analytics Findings
 
@@ -31,7 +31,7 @@ The Week 8 project brought together the completed Data Analytics work into a fin
 * The **65+** and **Specialist Consultation** segments were further examined to support Data Science model interpretation.
 
 ## Final Dashboard
-Power BI dashboard was refined in week 7 was rechecked to confirm validations.
+Power BI dashboard refined in week 7 was rechecked.
 The Dashboard findings were validated against the Python analysis.
 
 ## 🤝 Analytics & Data Science Integration
@@ -39,10 +39,6 @@ The Dashboard findings were validated against the Python analysis.
 The final integration connected the **Data Analytics** findings with the **Data Science** modelling work.
 
 Analytics findings on lead time, previous no-show history, and reminders were provided with regards to 65+ age segment and Specialist Consultation appointments provided by data science.
-
-The collaboration followed:
-
-**Test → Finding → Action → Retest → Validated Improvement**
 
 ## 💡 Final Recommendations
 
